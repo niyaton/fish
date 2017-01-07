@@ -1,1 +1,1 @@
-alias vim 'env SHELL=/usr/bin/zsh vim'
+alias vim 'env SHELL=/bin/sh vim'
